@@ -152,6 +152,9 @@ nav{
         display: flex;
         align-items: center;
         justify-content: space-between;
+        position: sticky;
+        top: 0%;
+        z-index: 10;
         & #nikelogo{
             border: 1px solid none;
             height: 50px;
@@ -161,12 +164,13 @@ nav{
         }
         & #market{
             border: 1px solid none;
-            height: 50px;
+            height: 100%;
             width: 560px;
             display: flex;
             align-items: center;
             justify-content: space-around;
             cursor: pointer;
+            margin-right: -100px;
             #new{
                 border: 1px solid none;
                 height: 40px;
@@ -914,6 +918,7 @@ nav{
         width: 100vw;
         border: 1px solid none;
         background-color: #f5f5f5;
+        z-index: -1;
     }
 }
 nav:hover{
@@ -962,6 +967,7 @@ nav:hover{
     margin: auto;
     animation: 8s addiv1 ease-out infinite;
     background-color: #f5f5f5;
+    z-index: -1;
 }
 @keyframes addiv1{
     0%{
@@ -990,6 +996,7 @@ nav:hover{
     margin-top: -37px;
     animation: 8s headdiv2 ease-in-out infinite;
     background-color: #f5f5f5;
+    z-index: -1;
 }
 @keyframes headdiv2{
     0%{
