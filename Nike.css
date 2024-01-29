@@ -154,7 +154,7 @@ nav{
         justify-content: space-between;
         position: sticky;
         top: 0%;
-        z-index: 10;
+        z-index: 1;
         & #nikelogo{
             border: 1px solid none;
             height: 50px;
@@ -185,7 +185,7 @@ nav{
                     position: absolute;
                     width: 100vw;
                     height: 470px;
-                    top: 12.5%;
+                    top: 90%;
                     left: 0%;
                     background-color: white;
                     display: flex;
@@ -305,7 +305,7 @@ nav{
                     position: absolute;
                     width: 100vw;
                     height: 470px;
-                    top: 12.5%;
+                    top: 90%;
                     left: 0%;
                     background-color: white;
                     display: flex;
@@ -425,7 +425,7 @@ nav{
                     position: absolute;
                     width: 100vw;
                     height: 470px;
-                    top: 12.5%;
+                    top: 90%;
                     left: 0%;
                     background-color: white;
                     display: flex;
@@ -545,7 +545,7 @@ nav{
                     position: absolute;
                     width: 100vw;
                     height: 550px;
-                    top: 12.5%;
+                    top: 90%;
                     left: 0%;
                     background-color: white;
                     display: flex;
@@ -665,7 +665,7 @@ nav{
                     position: absolute;
                     width: 100vw;
                     height: 370px;
-                    top: 12.5%;
+                    top: 90%;
                     left: 0%;
                     background-color: white;
                     display: flex;
@@ -786,7 +786,7 @@ nav{
                     position: absolute;
                     width: 100vw;
                     height: 250px;
-                    top: 12.5%;
+                    top: 90%;
                     left: 0%;
                     background-color: white;
                     display: flex;
