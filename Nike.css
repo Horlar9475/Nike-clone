@@ -1089,13 +1089,13 @@ nav:hover{
     & #sec1iii{
         border: 1px solid none;
         height: 300px; width: 390px;
-        background-image: url(Nike2.jpg);
+        background-image: url(NikeA.jpg);
         background-size: cover;
     }
     & #sec1iv{
         border: 1px solid none;
         height: 300px; width: 390px;
-        background-image: url(Nike4.jpg);
+        background-image: url(Nike2.jpg);
         background-size: cover;
     }
 }
@@ -1343,7 +1343,7 @@ nav:hover{
 footer{
     border: 1px solid none;
     height: 400px;
-    width: 100vw;
+    width: 100%;
     background-color: #111111;
     display: flex;
     flex-direction: column;
